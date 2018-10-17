@@ -5,6 +5,10 @@ Changelog
 -----------------
 
 * add pa elements
+* raster
+* maße
+* teppich
+* regale an hackcentertischen
 
 
 2018-10-16 v0.2.2
