@@ -1,8 +1,8 @@
 Changelog
 =========
 
-unreleased
-----------
+2018-10-17 v0.2.3
+-----------------
 
 * add pa elements
 
