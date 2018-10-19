@@ -1,3 +1,10 @@
+TODO
+====
+
+* Noiselab FOH nicht mit Gang im Rücken
+* Variante: Noiselab <-> Werkstatt tauschen
+
+
 Changelog
 =========
 
