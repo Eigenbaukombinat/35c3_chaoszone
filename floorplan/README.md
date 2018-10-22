@@ -2,11 +2,16 @@ TODO
 ====
 
 * Noiselab FOH nicht mit Gang im Rücken
-* Variante: Noiselab <-> Werkstatt tauschen
 
 
 Changelog
 =========
+
+unreleased
+----------
+
+* add 2 other variants
+* replace chairs
 
 
 2018-10-19 v0.3.1
