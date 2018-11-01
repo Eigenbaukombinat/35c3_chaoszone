@@ -7,12 +7,11 @@ TODO
 Changelog
 =========
 
-unreleased
-----------
+2018-11-01 v0.4.0
+-----------------
 
-* add 2 other variants
-* replace chairs
-
+* neuer Grundriss
+* erster Wurf
 
 2018-10-19 v0.3.1
 -----------------
