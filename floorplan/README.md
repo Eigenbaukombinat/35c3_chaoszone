@@ -1,11 +1,15 @@
 TODO
 ====
 
-* Noiselab FOH nicht mit Gang im Rücken
 
 
 Changelog
 =========
+2018-11-18 v0.5
+---------------
+
+* neu ohne nl
+
 
 2018-11-01 v0.4.0
 -----------------
